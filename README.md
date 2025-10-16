@@ -1,10 +1,10 @@
 <picture>
 	<source
 		media="(prefers-color-scheme: dark)"
-		srcset="https://readme.yn84b7rtsc.workers.dev/?section=header&theme=dark"
+		srcset="https://readme.rizesql.dev/?section=header&theme=dark"
 	/>
 	<img
-		src="https://readme.yn84b7rtsc.workers.dev/?section=header&theme=light"
+		src="https://readme.rizesql.dev/?section=header&theme=light"
 		width="100%"
 		height="20"
 		align="left"
@@ -15,10 +15,10 @@
 	<picture>
 		<source
 			media="(prefers-color-scheme: dark)"
-			srcset="https://readme.yn84b7rtsc.workers.dev/?section=link.github&theme=dark&i=0"
+			srcset="https://readme.rizesql.dev/?section=link.github&theme=dark&i=0"
 		/>
 		<img
-			src="https://readme.yn84b7rtsc.workers.dev/?section=link.github&theme=light&i=0"
+			src="https://readme.rizesql.dev/?section=link.github&theme=light&i=0"
 			height="18"
 			width="100"
 			align="left"
@@ -32,10 +32,10 @@
 	<picture>
 		<source
 			media="(prefers-color-scheme: dark)"
-			srcset="https://readme.yn84b7rtsc.workers.dev/?section=link.twitter&theme=dark&i=1"
+			srcset="https://readme.rizesql.dev/?section=link.twitter&theme=dark&i=1"
 		/>
 		<img
-			src="https://readme.yn84b7rtsc.workers.dev/?section=link.twitter&theme=light&i=1"
+			src="https://readme.rizesql.dev/?section=link.twitter&theme=light&i=1"
 			height="18"
 			width="100"
 			align="left"
@@ -48,10 +48,10 @@
 <picture>
 	<source
 		media="(prefers-color-scheme: dark)"
-		srcset="https://readme.yn84b7rtsc.workers.dev/?section=main&theme=dark"
+		srcset="https://readme.rizesql.dev/?section=main&theme=dark"
 	/>
 	<img
-		src="https://readme.yn84b7rtsc.workers.dev/?section=main&theme=light"
+		src="https://readme.rizesql.dev/?section=main&theme=light"
 		height="300"
 		width="100%"
 		align="left"
